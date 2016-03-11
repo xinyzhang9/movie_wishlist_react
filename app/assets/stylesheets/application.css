@@ -13,8 +13,9 @@
  *= require_tree .
  *= require_self
  */
-img{
+img, iframe{
   border: 1px solid gray;
   padding: 5px;
   border-radius: 20px;
 }
+
